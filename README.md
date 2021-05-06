@@ -11,3 +11,4 @@ Available on [Envato Tuts+](https://tutsplus.com). Teaching skills to millions w
 [published url]: http://code.tutsplus.com/tutorials/how-to-add-selection-support-to-a-recyclerview--cms-32175
 [instructor url]: https://tutsplus.com/authors/ashraff-hathibelagal
 
+"# RecyclerView-Selector" 
