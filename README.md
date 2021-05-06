@@ -1,14 +1,24 @@
-# Envato Tuts+ Tutorial: [How to Add Selection Support to a RecyclerView][published url]
-## Instructor: [Ashraff Hathibelagal][instructor url]
+# RecyclerView-Selector
 
-The RecyclerView Selection addon is a powerful new addition to the Android support library. With it, you can quickly create intuitive interfaces that allow users to select multiple items in lists. In this tutorial, I'll show you how to use it in an Android Studio project.
+RecyclerView 选择器的Demo
 
-------
-These are source files for the Envato Tuts+ tutorial: [How to Add Selection Support to a RecyclerView][published url]
+RecyclerView Selector Demo. 
 
-Available on [Envato Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: http://code.tutsplus.com/tutorials/how-to-add-selection-support-to-a-recyclerview--cms-32175
-[instructor url]: https://tutsplus.com/authors/ashraff-hathibelagal
+<a><img src="screenshot.gif" width="30%"/></a>
 
-"# RecyclerView-Selector" 
+# 使用方法
+
+1.下载
+  `git clone https://github.com/Neo-Turak/recyclerview-selector.git`
+  
+2.Android Studio 打开项目
+
+3.编译->完成。
+
+在Build.gradle里引入
+        
+`    implementation 'androidx.recyclerview:recyclerview:1.1.0'`
+`    implementation 'androidx.recyclerview:recyclerview-selection:1.1.0'`
+
+直通车->[androidx-recyclerview-selection](https://developer.android.com/reference/androidx/recyclerview/selection/package-summary)
